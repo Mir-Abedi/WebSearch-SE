@@ -1,4 +1,4 @@
-# Summer1400-SE ( Mohaymen Internship )
+# Summer1400-SE (Internship)
 
 Search in words using inverted index
 
